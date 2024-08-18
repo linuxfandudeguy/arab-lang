@@ -75,6 +75,7 @@ Feel free to contribute to the development of **arab-lang** by submitting issues
 
 This language is purely for experimentation and fun. It is not intended for serious software development. Use it at your own risk, and be prepared for unexpected behavior and bugs.
 
+This programming language is unstable so some functions might return errors on execution.
 
 
 
