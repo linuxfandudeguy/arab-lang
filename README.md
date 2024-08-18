@@ -23,7 +23,13 @@ Welcome to **arab-lang**, an esoteric programming language where the syntax is e
 
 1. **Clone the Repository**:
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/linuxfandudeguy/arab-lang.git   
+   cd arab-lang
+   ```  
+ Or if you are more of an SSH fellow:
+  
+ ```sh
+   git clone git@github.com:linuxfandudeguy/arab-lang.git
    cd arab-lang
    ```
 
