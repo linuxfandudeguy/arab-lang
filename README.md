@@ -38,8 +38,8 @@ Welcome to **arab-lang**, an esoteric programming language where the syntax is e
 
 Create a file with the `.arab` extension and write your code using Arabic syntax. For example:
 
-```plaintext
-تعريف مضاعف(x):
+```python
+
 ```
 
 ## Contributing
@@ -50,10 +50,6 @@ Feel free to contribute to the development of **arab-lang** by submitting issues
 
 This language is purely for experimentation and fun. It is not intended for serious software development. Use it at your own risk, and be prepared for unexpected behavior and bugs.
 
-## Contact
 
-For any inquiries or contributions, please contact [Your Contact Information].
 
----
 
-Feel free to modify this as needed to fit the specifics of your project or your personal style!
