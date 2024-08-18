@@ -45,7 +45,26 @@ Welcome to **arab-lang**, an esoteric programming language where the syntax is e
 Create a file with the `.arab` extension and write your code using Arabic syntax. For example:
 
 ```python
+# تعريف دالة
+تعريف مضاعف(x):
+    إرجاع x * 2
 
+# استدعاء دالة
+نتيجة = مضاعف(5)
+طباعة "النتيجة هي: " + نتيجة
+
+# عمليات رياضية
+جذر 25
+طباعة "جذر 25 هو: " + result
+
+# التعامل مع السلاسل
+نص = "مرحبا بالعالم"
+طول نص
+طباعة "طول النص هو: " + length
+
+# الحصول على الوقت الحالي
+وقت_الآن
+طباعة "الوقت الحالي هو: " + current_time
 ```
 
 ## Contributing
